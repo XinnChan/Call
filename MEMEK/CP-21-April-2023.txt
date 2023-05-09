@@ -1,0 +1,1 @@
+100069458223828|din123|Mozilla/5.0 (Linux; Android 7.1.1; BASARI-ID Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/98.0.4228.135 Mobile Safari/537.36 OPT/1.7.21

@@ -1,0 +1,7 @@
+100089170719754|lando123|Mozilla/5.0 (Linux; U; Android 11; Mi A3 Build/QKQ1.190910.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4569.122 Mobile Safari/537.36 OPR/52.2.2254.54723
+100070710223122|gebog123456|Mozilla/5.0 (Linux; Android 7.1.1; BASARI-ID Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/98.0.4750.116 Mobile Safari/537.36 OPT/1.7.21
+100089781742488|achil321|Mozilla/5.0 (Linux; U; Android 8.1.0; Mi A3 Build/QKQ1.190910.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4833.148 Mobile Safari/537.36 OPR/52.2.2254.54723
+100085883284354|selamat riya|Mozilla/5.0 (Linux; Android 8.1.0; BASARI-ID Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4574.75 Mobile Safari/537.36 OPT/1.7.21
+100086024606893|irvan12345|Mozilla/5.0 (Linux; U; Android 10; Mi A3 Build/QKQ1.190910.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/102.0.4408.136 Mobile Safari/537.36 OPR/52.2.2254.54723
+100082647486660|johny tzz
+100063534706649|danson danny

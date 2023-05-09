@@ -1,0 +1,8 @@
+100068888096624|zainal321|Mozilla/5.0 (Linux; U; Android 8.1.0; Mi A3 Build/QKQ1.190910.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.0.4211.132 Mobile Safari/537.36 OPR/52.2.2254.54723
+100042154187741|inggra1234|Mozilla/5.0 (Linux; U; Android 12; Mi A3 Build/QKQ1.190910.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4348.66 Mobile Safari/537.36 OPR/52.2.2254.54723
+100052400172431|juna merdiana|Mozilla/5.0 (Linux; Android 7.1.1; BASARI-ID Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4304.146 Mobile Safari/537.36 OPT/1.7.21
+100068885562311|kang parto|Mozilla/5.0 (Linux; Android 6.0.1; BASARI-ID Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4273.120 Mobile Safari/537.36 OPT/1.7.21
+100090254566401|nda12345|Mozilla/5.0 (Linux; U; Android 8.1.0; Mi A3 Build/QKQ1.190910.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4819.140 Mobile Safari/537.36 OPR/52.2.2254.54723
+100090138924814|sinta12345|Mozilla/5.0 (Linux; U; Android 8.1.0; Mi A3 Build/QKQ1.190910.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/94.0.4667.78 Mobile Safari/537.36 OPR/52.2.2254.54723
+100090017852400|dian12345|Mozilla/5.0 (Linux; Android 8.1.0; BASARI-ID Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/97.0.4703.92 Mobile Safari/537.36 OPT/1.7.21
+100089912913467|safitri123|Mozilla/5.0 (Linux; U; Android 7.0; Mi A3 Build/QKQ1.190910.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.0.4583.55 Mobile Safari/537.36 OPR/52.2.2254.54723
