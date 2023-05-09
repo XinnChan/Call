@@ -2,7 +2,7 @@
 Sc punya orang:v
 
 # module Tai
-``python
+```python
 pkg update && pkg upgrade
 
 pkg install python
