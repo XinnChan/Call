@@ -1,7 +1,6 @@
-# Call
-Sc punya orang:v
+# spam Call
 
-# module Tai
+# install module nya
 ```python
 pkg update && pkg upgrade
 
@@ -13,7 +12,7 @@ pip install requests
 
 pkg install git
 
-git clone https://github.com/Dra-ID/Call
+git clone https://github.com/XinnChan/Call
 
 cd Call
 
@@ -21,3 +20,5 @@ git pull
 
 python main.py
 ```
+
+# Pasword: AbgGhLkJOLmkldcVblpoinalsbsbjhsjsj
